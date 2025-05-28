@@ -1,5 +1,4 @@
 package ListaVetores;
-import java.nio.channels.Pipe.SourceChannel;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
