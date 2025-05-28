@@ -7,7 +7,6 @@ public class Questao6 {
         int [] vetorA = new int[5];
         int [] vetorB = new int[5];
         int [] vetorC = new int[5];
-        int soma;
 
         for (int i = 0; i < vetorA.length; i++) {
             vetorA[i] = random.nextInt(11);
